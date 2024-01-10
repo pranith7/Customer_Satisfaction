@@ -8,3 +8,9 @@
 2024-01-06 18:45:44 IST - data_cleaning - ERROR - error messaage
 2024-01-06 18:45:44 IST - data_cleaning - WARNING - warning message
 2024-01-06 18:45:44 IST - data_cleaning - CRITICAL - critical message
+2024-01-10 23:44:31 IST - data_cleaning - INFO - info message
+2024-01-10 23:44:31 IST - data_cleaning - DEBUG - debug message
+2024-01-10 23:44:31 IST - data_cleaning - ERROR - error messaage
+2024-01-10 23:44:31 IST - data_cleaning - WARNING - warning message
+2024-01-10 23:44:31 IST - data_cleaning - CRITICAL - critical message
+2024-01-10 23:59:49 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv

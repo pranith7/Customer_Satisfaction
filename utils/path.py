@@ -5,6 +5,7 @@ PARENT_DIR = Path(__file__).parent.resolve().parent
 DATA_DIR = PARENT_DIR / 'data'
 MODELS_DIR = PARENT_DIR / 'models'
 
+print(PARENT_DIR)
 if not Path(DATA_DIR).exists():
     os.mkdir(DATA_DIR)
 
