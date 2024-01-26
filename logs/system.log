@@ -14,3 +14,54 @@
 2024-01-10 23:44:31 IST - data_cleaning - WARNING - warning message
 2024-01-10 23:44:31 IST - data_cleaning - CRITICAL - critical message
 2024-01-10 23:59:49 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-11 22:40:17 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-12 16:07:12 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-26 13:31:41 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-26 14:55:18 IST - data_cleaning - INFO - info message
+2024-01-26 14:55:18 IST - data_cleaning - DEBUG - debug message
+2024-01-26 14:55:18 IST - data_cleaning - ERROR - error messaage
+2024-01-26 14:55:18 IST - data_cleaning - WARNING - warning message
+2024-01-26 14:55:18 IST - data_cleaning - CRITICAL - critical message
+2024-01-26 15:00:54 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-26 15:03:00 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-26 15:03:18 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-26 15:08:25 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-26 15:15:59 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-26 15:46:37 IST - cleaning_data - INFO - Model training Completed
+2024-01-26 15:46:38 IST - model_evaluation - INFO - Calculating MSE
+2024-01-26 15:46:38 IST - model_evaluation - INFO - MSE: 1.8640770533975464
+2024-01-26 15:46:38 IST - model_evaluation - INFO - Calculating R2 score
+2024-01-26 15:46:38 IST - model_evaluation - INFO - R2 score: 0.017729030402296453
+2024-01-26 15:46:38 IST - model_evaluation - INFO - Calculating RMSE
+2024-01-26 15:46:38 IST - model_evaluation - INFO - RMSE: 1.365312071798073
+2024-01-26 15:53:44 IST - cleaning_data - INFO - Model training Completed
+2024-01-26 15:53:45 IST - model_evaluation - INFO - Calculating MSE
+2024-01-26 15:53:45 IST - model_evaluation - INFO - MSE: 1.8640770533975464
+2024-01-26 15:53:45 IST - model_evaluation - INFO - Calculating R2 score
+2024-01-26 15:53:45 IST - model_evaluation - INFO - R2 score: 0.017729030402296453
+2024-01-26 15:53:45 IST - model_evaluation - INFO - Calculating RMSE
+2024-01-26 15:53:45 IST - model_evaluation - INFO - RMSE: 1.365312071798073
+2024-01-26 15:54:13 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-26 15:54:19 IST - cleaning_data - INFO - Model training Completed
+2024-01-26 15:54:20 IST - model_evaluation - INFO - Calculating MSE
+2024-01-26 15:54:20 IST - model_evaluation - INFO - MSE: 1.8640770533975464
+2024-01-26 15:54:20 IST - model_evaluation - INFO - Calculating R2 score
+2024-01-26 15:54:20 IST - model_evaluation - INFO - R2 score: 0.017729030402296453
+2024-01-26 15:54:20 IST - model_evaluation - INFO - Calculating RMSE
+2024-01-26 15:54:20 IST - model_evaluation - INFO - RMSE: 1.365312071798073
+2024-01-26 15:56:16 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-26 15:56:23 IST - cleaning_data - INFO - Model training Completed
+2024-01-26 15:56:23 IST - model_evaluation - INFO - Calculating MSE
+2024-01-26 15:56:23 IST - model_evaluation - INFO - MSE: 1.8640770533975464
+2024-01-26 15:56:23 IST - model_evaluation - INFO - Calculating R2 score
+2024-01-26 15:56:23 IST - model_evaluation - INFO - R2 score: 0.017729030402296453
+2024-01-26 15:56:23 IST - model_evaluation - INFO - Calculating RMSE
+2024-01-26 15:56:23 IST - model_evaluation - INFO - RMSE: 1.365312071798073
+2024-01-26 16:20:46 IST - ingesting_data - INFO - Ingesting data from /teamspace/studios/this_studio/Customer_Satisfaction/data/olist_customers_dataset.csv
+2024-01-26 16:20:53 IST - cleaning_data - INFO - Model training Completed
+2024-01-26 16:20:53 IST - model_evaluation - INFO - Calculating MSE
+2024-01-26 16:20:53 IST - model_evaluation - INFO - MSE: 1.8640770533975464
+2024-01-26 16:20:53 IST - model_evaluation - INFO - Calculating R2 score
+2024-01-26 16:20:53 IST - model_evaluation - INFO - R2 score: 0.017729030402296453
+2024-01-26 16:20:53 IST - model_evaluation - INFO - Calculating RMSE
+2024-01-26 16:20:53 IST - model_evaluation - INFO - RMSE: 1.365312071798073
